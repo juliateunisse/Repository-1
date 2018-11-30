@@ -36,10 +36,6 @@ h2 {
     padding-left: 14px;
 }
 
-h3 {
-    color: white;
-    font-size: 1.25em;
-}
 
 img {
     border-style: dashed;
@@ -64,3 +60,35 @@ li {
 table {
     background-color: #ccc;
 }
+
+.table1 {
+	background-color: #9dc3c0;
+}
+
+.table2 {
+	background-color: #9da9c0;
+}
+
+.table3 {
+	background-color: #e9ccd9;
+}
+
+.table4 {
+    background-color: #a6cee2;
+}
+
+.table5 {
+	background-color: #ace7c6;
+}
+
+a:active {
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+    background-color: #9dc3c0;
+}
+
+
